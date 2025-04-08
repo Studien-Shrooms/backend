@@ -27,10 +27,11 @@ async def upload_video(file: UploadFile = File(...), language: str = Form(...)):
     try:
         with open(filepath, "wb") as buffer:
             shutil.copyfileobj(file.file, buffer)
+        translation_result = translation(filepath, language)
+        os.remove(filepath)
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": str(e)})
 
-    translation_result = translation(filepath, language)
     return JSONResponse(content={
         "message": "Upload erfolgreich",
         "filename": file.filename,
