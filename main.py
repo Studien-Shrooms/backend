@@ -8,6 +8,7 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:4200", 
+                   "https://thankful-desert-06810b503.6.azurestaticapps.net",
                    "https://thankful-desert-06810b503.6.azurestaticapps.net/"],  
     allow_credentials=True,
     allow_methods=["*"],
