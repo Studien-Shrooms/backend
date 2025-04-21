@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Database-MongoDB-47A248">
     <br>
     <br>
-    <b>Backend repository for the Angular-based Gebärdenspracheanwendung</b>
+    <b>Backend repository providing the API for the Angular-based Gebärdenspracheanwendung</b>
     <br>
     <br>
 </div>
