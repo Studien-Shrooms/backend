@@ -2,7 +2,7 @@
     <h1>Backend for Gebärdenspracheanwendung</h1>
     <img src="https://img.shields.io/github/last-commit/Studien-Shrooms/backend">
     <img src="https://img.shields.io/github/workflow/status/Studien-Shrooms/backend/CI?label=build">
-    <img src="https://img.shields.io/github/license/charl/backend">
+    <img src="https://img.shields.io/github/license/Studien-Shrooms/backend">
     <img src="https://img.shields.io/badge/Framework-Node.js-339933">
     <img src="https://img.shields.io/badge/Database-MongoDB-47A248">
     <br>
