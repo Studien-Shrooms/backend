@@ -1,10 +1,10 @@
 <div align="center">
     <h1>Backend for Gebärdenspracheanwendung</h1>
-     <img src="https://img.shields.io/github/last-commit/Studien-Shrooms/backend">
-     <img src="https://img.shields.io/github/languages/top/Studien-Shrooms/backend">
-     <img src="https://img.shields.io/github/languages/count/Studien-Shrooms/backend">
-     <img src="https://img.shields.io/github/repo-size/Studien-Shrooms/backend">
-     <img src="https://img.shields.io/github/stars/Studien-Shrooms/backend?style=social">
+      <img src="https://img.shields.io/github/last-commit/Studien-Shrooms/backend">
+    <img src="https://img.shields.io/github/languages/top/Studien-Shrooms/backend">
+    <img src="https://img.shields.io/github/languages/count/Studien-Shrooms/backend">
+    <img src="https://img.shields.io/github/repo-size/Studien-Shrooms/backend">
+    <img src="https://img.shields.io/github/stars/Studien-Shrooms/backend?style=social">
     <br>
     <br>
     <b>Backend repository providing the API for the Angular-based Gebärdenspracheanwendung</b>
